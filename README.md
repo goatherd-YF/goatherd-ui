@@ -1,4 +1,4 @@
-# spring
+# goatherd-ui
 
 ## Project setup
 ```
